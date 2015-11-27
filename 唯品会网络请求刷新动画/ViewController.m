@@ -2,8 +2,8 @@
 //  ViewController.m
 //  唯品会网络请求刷新动画
 //
-//  Created by Honzon on 15/11/26.
-//  Copyright © 2015年 Honzon. All rights reserved.
+//  Created by Honzon-0 on 15/11/26.
+//  Copyright © 2015年 Honzon-0. All rights reserved.
 //
 
 #define MAIN_COLOR  ([UIColor colorWithRed:219/255.0 green:0 blue:88/255.0 alpha:1.0])
